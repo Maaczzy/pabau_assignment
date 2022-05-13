@@ -8,7 +8,7 @@
   <div class="container">
     <a class="navbar-brand" href="#">
       <img src="<?php echo esc_url( get_template_directory_uri() . '/img/logo.png' ); ?>" alt="" width="30" class="d-inline-block align-text-top">
-      Medoc
+      Medoc - Dental
     </a>
   </div>
 </nav>

@@ -7,3 +7,7 @@ Tags: pabau, one-page, assignment, medical, bootstrap, jquery, lead.
 Author: Martin Lazarevski
 Author URI: https://maczy.mk
 */
+
+.navbar-brand{
+	font-family: 'Playfair Display', serif;
+}
