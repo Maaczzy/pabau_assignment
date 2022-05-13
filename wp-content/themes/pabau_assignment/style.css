@@ -11,3 +11,19 @@ Author URI: https://maczy.mk
 .navbar-brand{
 	font-family: 'Playfair Display', serif;
 }
+
+.footerHeadlines{
+	font-family: 'Playfair Display', serif;
+}
+
+.footer{
+	font-family: 'Roboto', 'sans-serif';
+}
+
+.footer a{
+	text-decoration: none;
+}
+
+.newFooter{
+	padding: 100px 0;
+}

@@ -4,18 +4,18 @@
 <footer class="text-center text-lg-start bg-light text-muted">
 
   <!-- Section: Links  -->
-  <section class="">
+  <section class="footer">
     <div class="container text-center text-md-start">
       <!-- Grid row -->
-      <div class="row">
+      <div class="row newFooter">
         <!-- Grid column -->
         <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
           <!-- Content -->
-          <h6 class="text-uppercase fw-bold mb-4 pt-100">
-           Medoc
-          </h6>
+          <h4 class="text-uppercase fw-bold mb-4 footerHeadlines">
+           Medoc - Dental
+          </h4>
           <p>
-            Worlds best medical equipment
+            Modern Dental Hospital
           </p>
         </div>
         <!-- Grid column -->
@@ -23,20 +23,20 @@
         <!-- Grid column -->
         <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
           <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">
-            Useful links
-          </h6>
+          <h4 class="text-uppercase fw-bold mb-4 footerHeadlines">
+            Sitemap
+          </h4>
           <p>
-            <a href="#!" class="text-reset">Pricing</a>
+            <a href="#!" class="text-reset">Services</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Settings</a>
+            <a href="#!" class="text-reset">Clients</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Orders</a>
+            <a href="#!" class="text-reset">Team</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Help</a>
+            <a href="#!" class="text-reset">Location</a>
           </p>
         </div>
         <!-- Grid column -->
@@ -44,9 +44,9 @@
         <!-- Grid column -->
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           <!-- Links -->
-          <h6 class="text-uppercase fw-bold mb-4">
+          <h4 class="text-uppercase fw-bold mb-4 footerHeadlines">
             Contact
-          </h6>
+          </h4>
           <p><i class="fas fa-home me-3"></i> Skopje, Macedonia</p>
           <p>
             <i class="fas fa-envelope me-3"></i>
@@ -63,7 +63,7 @@
   <!-- Section: Links  -->
 
   <!-- Copyright -->
-  <div class="text-center p-4" style="background-color: whitesmoke">
+  <div class="text-center p-4 footerHeadlines">
     © 2022 Copyright. All rights reserved.
   </div>
   <!-- Copyright -->
