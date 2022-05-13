@@ -9,8 +9,12 @@ function load_stylesheets(){
 add_action('wp_enqueue_scripts', 'load_stylesheets');
 
 function load_js(){
+    wp_register_script( 'jquery', get_template_directory_uri() . '/js/jquery.min.js', '', 1, true);
+    wp_enqueue_script( 'jquery' );
     wp_register_script( 'bootstrap', get_template_directory_uri() . '/js/bootstrap.min.js', '', 1, true);
     wp_enqueue_script( 'bootstrap' );
+    wp_register_script( 'formSubmit', get_template_directory_uri() . '/js/formSubmit.js', '', 1, true);
+    wp_enqueue_script( 'formSubmit' );
 }
 add_action('wp_enqueue_scripts', 'load_js');
 
